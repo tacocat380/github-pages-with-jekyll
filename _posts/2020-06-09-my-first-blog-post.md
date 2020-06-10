@@ -1,8 +1,8 @@
 ---
-title: "Andrew's Website"
+title: "Brag Sheet"
 date: 2020-06-09
 ---
-Brag Sheet: 
+ 
 
 Hobbies/achievements in High School - 
 1. I did track and field and I ran a 55 sec 400m. 
